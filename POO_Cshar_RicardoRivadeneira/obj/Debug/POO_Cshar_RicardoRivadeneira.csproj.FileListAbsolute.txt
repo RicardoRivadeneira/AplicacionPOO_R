@@ -1,0 +1,8 @@
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Codigos-C#\POO_Cshar_RicardoRivadeneira\POO_Cshar_RicardoRivadeneira\bin\Debug\POO_Cshar_RicardoRivadeneira.exe.config
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Codigos-C#\POO_Cshar_RicardoRivadeneira\POO_Cshar_RicardoRivadeneira\bin\Debug\POO_Cshar_RicardoRivadeneira.exe
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Codigos-C#\POO_Cshar_RicardoRivadeneira\POO_Cshar_RicardoRivadeneira\bin\Debug\POO_Cshar_RicardoRivadeneira.pdb
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Codigos-C#\POO_Cshar_RicardoRivadeneira\POO_Cshar_RicardoRivadeneira\obj\Debug\POO_Cshar_RicardoRivadeneira.csproj.AssemblyReference.cache
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Codigos-C#\POO_Cshar_RicardoRivadeneira\POO_Cshar_RicardoRivadeneira\obj\Debug\POO_Cshar_RicardoRivadeneira.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Codigos-C#\POO_Cshar_RicardoRivadeneira\POO_Cshar_RicardoRivadeneira\obj\Debug\POO_Cshar_RicardoRivadeneira.csproj.CoreCompileInputs.cache
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Codigos-C#\POO_Cshar_RicardoRivadeneira\POO_Cshar_RicardoRivadeneira\obj\Debug\POO_Cshar_RicardoRivadeneira.exe
+C:\Users\DELL 1559\Desktop\ESPE\Quinto Semestre\Web Avanzada\Primer Parcial\Codigos-C#\POO_Cshar_RicardoRivadeneira\POO_Cshar_RicardoRivadeneira\obj\Debug\POO_Cshar_RicardoRivadeneira.pdb
