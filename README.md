@@ -47,4 +47,4 @@ Esta aplicación en C# permite al usuario ingresar información sobre un emplead
 
 ## Licencia
 
-Este proyecto está relizado por Ricardo Rivadenria.
+Este proyecto está relizado por Ricardo Rivadeneira.
