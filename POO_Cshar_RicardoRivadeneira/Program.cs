@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -41,6 +41,9 @@ namespace POO_Cshar_RicardoRivadeneira
 
             MostrarInformacion(empleado);
             MostrarInformacion(gerente);
+
+            Console.WriteLine("\nPresione cualquier tecla para cerrar la consola...");
+            Console.ReadKey(); // Espera a que el usuario presione una tecla antes de cerrar la consola
         }
 
         static void MostrarInformacion(IMostrarInformacion info)
@@ -49,4 +52,3 @@ namespace POO_Cshar_RicardoRivadeneira
         }
     }
 }
-
