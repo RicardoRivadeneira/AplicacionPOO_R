@@ -38,7 +38,7 @@ Esta aplicación en C# permite al usuario ingresar información sobre un emplead
 3. Compila y ejecuta el programa.
 4. Sigue las instrucciones en la consola para ingresar la información del empleado y del gerente.
 
-<img src="Evidencia_Funcionamiento.png" alt="Evidencia" width="200"/>
+<img src="Evidencia_Funcionamiento.png" alt="Evidencia" width="400"/>
 
 ## Tecnologías Utilizadas
 
